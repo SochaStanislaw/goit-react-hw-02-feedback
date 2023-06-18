@@ -2,7 +2,7 @@ import { Component } from "react";
 import { FeedbackOptions } from "./FeedbackOptions";
 import { Statistics } from "./Statistics/Statistics";
 import { Section } from "components/Section";
-import { Notification } from "./Notification";
+// import { Notification } from "./Notification";
 
 export class App extends Component {
   
